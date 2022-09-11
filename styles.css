@@ -1,0 +1,44 @@
+
+
+.head
+{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px  ;
+}
+
+.container
+
+{
+
+
+text-align: center;
+margin-top: 80px ;
+
+
+}
+
+p
+{
+  font-size: 20px ;
+}
+
+
+.but{
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-around;
+  padding-right: 70px;
+  padding-top: 80px ;
+
+}
+
+button
+{
+  border-radius: 20px ;
+  font-size: 30px ;
+  background: white ;
+  padding-right: 10px ;
+
+}
